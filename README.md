@@ -1,0 +1,1 @@
+This project contains a simple classifier that classifies emotion labels for given text data. The text is encoded through pre-trained embeddings generated from BERT and then fed through a simple linear classifier with an attention layer.
